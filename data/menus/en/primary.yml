@@ -1,13 +1,6 @@
 ---
 title: Main menu
 items:
-- title: Blog
-  target: "/posts/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/en/posts/_index.html
 - title: Team
   target: "/team/"
   kind: page
@@ -43,4 +36,11 @@ items:
   children: []
   path: "/pages/contact"
   file: content/en/pages/contact/_index.html
+- title: Blog
+  target: "/posts/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/en/posts/_index.html
 

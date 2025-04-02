@@ -29,13 +29,6 @@ items:
   children: []
   path: "/pages/volunteer"
   file: content/en/pages/volunteer/_index.html
-- title: Contact
-  target: "/contact/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/contact"
-  file: content/en/pages/contact/_index.html
 - title: Blog
   target: "/posts/"
   kind: page
@@ -43,4 +36,11 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
+- title: Contact
+  target: "/contact/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/contact"
+  file: content/en/pages/contact/_index.html
 

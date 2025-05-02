@@ -16,6 +16,7 @@ en:
     posts_categories: /posts/:slug/
     persons: /team/:slug/
     persons_categories: /team/categories/:slug/
+    authors: /team/:slug/posts/
   taxonomies:
     administrator: administrators
     author: authors

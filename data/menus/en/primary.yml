@@ -15,6 +15,20 @@ items:
   children: []
   path: "/pages/volunteer"
   file: content/en/pages/volunteer/_index.html
+- title: Tools
+  target: "/tools/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Editable Doughnut Economics Template (and PDF)
+    target: "/tools/editable-doughnut-economics-template-and-pdf/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tools/editable-doughnut-economics-template-and-pdf"
+    file: content/en/pages/tools/editable-doughnut-economics-template-and-pdf/_index.html
+  path: "/pages/tools"
+  file: content/en/pages/tools/_index.html
 - title: Blog
   target: "/posts/"
   kind: page

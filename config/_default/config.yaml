@@ -8,3 +8,27 @@ params:
   logo:
     header: '/assets/images/logo-white.svg'
     footer: '/assets/images/icon.svg'
+  menu:
+    primary:
+      level_2:
+        summary:
+          active: false
+          source: "Summary" # "Summary" | "meta_description"
+          truncate: 125
+        title:
+          active: true
+          summary:
+            active: true
+            source: "Summary" # "Summary" | "meta_description"
+            truncate: 125
+  posts:
+    index:
+      layout: list # grid | list
+      options:
+        author: false
+        categories: true
+        date: true
+        image: false
+        reading_time: true
+        summary: true
+        subtitle: true

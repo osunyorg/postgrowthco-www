@@ -32,3 +32,5 @@ params:
         reading_time: true
         summary: true
         subtitle: true
+    single:
+      author_signature: true

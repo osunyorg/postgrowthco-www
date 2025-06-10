@@ -16,13 +16,6 @@ en:
           value: >-
             https://www.linkedin.com/company/postgrowth-co/
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /posts/:year-:month-:day-:slug/
-    posts_categories: /posts/:slug/
-    persons: /team/:slug/
-    persons_categories: /team/categories/:slug/
-    authors: /team/:slug/posts/
   taxonomies:
     administrator: administrators
     author: authors

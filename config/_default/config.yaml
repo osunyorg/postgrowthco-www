@@ -33,4 +33,5 @@ params:
         summary: true
         subtitle: true
     single:
-      author_signature: true
+      options:
+        signature: true

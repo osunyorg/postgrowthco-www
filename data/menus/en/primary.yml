@@ -1,6 +1,13 @@
 ---
 title: Main menu
 items:
+- title: The Collective
+  target: "/the-collective/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/the-collective"
+  file: content/en/pages/the-collective/_index.html
 - title: Join Us
   target: "/volunteer/"
   kind: page

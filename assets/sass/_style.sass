@@ -1,6 +1,40 @@
 .hero
+    background-blend-mode: multiply
+    background-repeat: no-repeat
+    background-image: url(/assets/images/icon.svg)
+    background-size: 300px
+    background-position: top -110px right -115px
+    @include media-breakpoint-up(desktop)
+        background-size: 500px
+        background-position: top -80px right -220px
     .content
         h1 
             > span
                 color: $color-background
                 opacity: 0.8
+
+@include media-breakpoint-up(desktop)
+    // Mise en page verticale
+    body
+        .hero
+            .content
+                align-items: center
+                flex-direction: column
+                text-align: center
+                .hero-text
+                    margin-left: auto
+                    margin-right: auto
+                    margin-top: 0
+                    margin-bottom: $spacing-4
+                    text-align: center
+                    width: 100%
+                    h1
+                        width: 100%
+                    p
+                        width: columns(10)
+                        padding-left: offset(2)
+                        margin-top: $spacing-4
+            .breadcrumb
+                justify-content: center
+                padding-right: 0 !important
+                margin-top: $spacing-5

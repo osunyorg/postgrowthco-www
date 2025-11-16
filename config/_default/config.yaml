@@ -1,8 +1,16 @@
-theme: osuny
+theme: 
+  - osuny
+  - osuny-plugin-centered-header
+  - osuny-plugin-centered-footer
 _merge: deep
 params:
+  breadcrumb:
+    position: hero-end
   summary:
     position: hero
+  home:
+    head:
+      title: site
   search:
     active: true
   logo:

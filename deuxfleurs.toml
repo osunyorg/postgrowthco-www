@@ -15,62 +15,62 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/posts/2025-05-02-cities-that-have-adopted-the-doughnut-economics-framework/"
+from = "/posts/2025-05-02-cities-that-have-adopted-the-doughnut-economics-framework/index.html"
 to = "/blog/2025-05-02-cities-that-have-adopted-the-doughnut-economics-framework/"
 
 [[redirects]]
-from = "/volunteer-your-expertise-to-the-post-growth-movement/"
+from = "/volunteer-your-expertise-to-the-post-growth-movement/index.html"
 to = "/volunteer/"
 
 [[redirects]]
-from = "/posts/2025-05-02-recommended-degrowth-and-postgrowth-articles/"
+from = "/posts/2025-05-02-recommended-degrowth-and-postgrowth-articles/index.html"
 to = "/blog/2025-05-02-recommended-degrowth-and-postgrowth-articles/"
 
 [[redirects]]
-from = "/posts/2025-06-02-degrowth-through-knowledge-based-development-an-interview-with-the-author-prof-f-j-carrillo/"
+from = "/posts/2025-06-02-degrowth-through-knowledge-based-development-an-interview-with-the-author-prof-f-j-carrillo/index.html"
 to = "/blog/2025-06-02-degrowth-through-knowledge-based-development-an-interview-with-the-author-prof-f-j-carrillo/"
 
 [[redirects]]
-from = "/posts/2025-05-02-recommended-degrowth-books/"
+from = "/posts/2025-05-02-recommended-degrowth-books/index.html"
 to = "/blog/2025-05-02-recommended-degrowth-books/"
 
 [[redirects]]
-from = "/degrowth-resources/"
+from = "/degrowth-resources/index.html"
 to = "/tools/"
 
 [[redirects]]
-from = "/recommended-degrowth-documentaries-films/"
+from = "/recommended-degrowth-documentaries-films/index.html"
 to = "/blog/2025-05-02-recommended-degrowth-documentaries-films/"
 
 [[redirects]]
-from = "/posts/"
+from = "/posts/index.html"
 to = "/blog/"
 
 [[redirects]]
-from = "/recommended-post-growth-articles/"
+from = "/recommended-post-growth-articles/index.html"
 to = "/blog/2025-05-02-recommended-degrowth-and-postgrowth-articles/"
 
 [[redirects]]
-from = "/editable-doughnut-economics-template-and-pdf/"
+from = "/editable-doughnut-economics-template-and-pdf/index.html"
 to = "/tools/editable-doughnut-economics-template-and-pdf/"
 
 [[redirects]]
-from = "/get-help-with-your-degrowth-project/"
+from = "/get-help-with-your-degrowth-project/index.html"
 to = "/get-help/"
 
 [[redirects]]
-from = "/posts/2025-05-02-recommended-degrowth-documentaries-films/"
+from = "/posts/2025-05-02-recommended-degrowth-documentaries-films/index.html"
 to = "/blog/2025-05-02-recommended-degrowth-documentaries-films/"
 
 [[redirects]]
-from = "/team/matt-tutt/posts/"
+from = "/team/matt-tutt/posts/index.html"
 to = "/team/matt-tutt/blog/"
 
 [[redirects]]
-from = "/posts/2025-05-14-the-problem-with-degrowth-and-why-branding-isnt-one-of-them/"
+from = "/posts/2025-05-14-the-problem-with-degrowth-and-why-branding-isnt-one-of-them/index.html"
 to = "/blog/2025-05-14-the-problem-with-degrowth-and-why-branding-isnt-one-of-them/"
 
 [[redirects]]
-from = "/testing/"
+from = "/testing/index.html"
 to = "/"
 
